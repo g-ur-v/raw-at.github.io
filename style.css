@@ -63,7 +63,8 @@ img{
 #stage-caption h2 {
 
 	text-align: center;
-	
+	position: relative;
+	left: -10px;
 	color:black;
 }
 
