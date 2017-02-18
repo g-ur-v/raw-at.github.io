@@ -1,0 +1,152 @@
+html,body{
+
+	width: auto;
+	height: 100%;
+	overflow-x: hidden !important;
+    background-image:url('img/trial2.jpg');
+}
+
+body{
+
+	-webkit-font-smoothing:antialiased;
+	text-rendering: optimizeLegibility;
+	color: #6c6f73;
+
+
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color:rgb(180,181,185);
+	text-decoration: none;
+}
+h1{
+	font-family: 'Sansita', sans-serif;
+	letter-spacing: 2px;
+}
+img{
+
+	max-width: 100%
+}
+
+#stage{
+
+	background:url('img/trial2.jpg') center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	overflow-x: hidden; 
+}
+#stage-caption{
+
+	font-size: 1.4rem;
+	font-weight: 200;
+	max-width: 60rem;
+	margin:auto;
+	text-align: center;
+	position: relative;
+}
+
+#stage-caption h1{
+
+	color:white;
+	font-weight: bold;
+	text-transform: uppercase;
+	
+}
+
+#typed{
+    font-size: 50px;
+    color:black;
+    font-family: Bangers;
+    font-weight: Bold;
+    letter-spacing: 4px;
+
+}
+
+#delhi{
+
+    position: relative;
+    margin-top: 30px;
+
+}
+#delhi h1{
+
+    color:orangered;
+}
+#delhi p {
+    color:black;
+    font-size: 18px;
+}
+
+
+
+#mumbai{
+
+    position: relative;
+    margin-top: 50px;
+
+}
+#mumbai h1{
+
+    color:orangered;
+}
+#mumbai p {
+    color:black;
+    font-size: 18px;
+}
+
+
+#rajasthan{
+
+    position: relative;
+    margin-top: 50px;
+
+}
+#rajasthan h1{
+
+    color:orangered;
+}
+#rajasthan p {
+    color:black;
+    font-size: 18px;
+}
+
+#up{
+
+    position: relative;
+    margin-top: 50px;
+
+}
+#up h1{
+
+    color:orangered;
+}
+#up p {
+    color:black;
+    font-size: 18px;
+}
+
+#direct li{
+
+    display: inline;
+    padding:10px; 
+}
+#direct a{
+    color: black
+}
+
+#direct a:hover{
+    color:grey;
+}
+#direction{
+    position: relative;
+    top: 50px;
+}
+
+

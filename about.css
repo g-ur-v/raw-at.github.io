@@ -1,0 +1,26 @@
+h1{
+    color: #222;
+    font-family: Bangers;
+    letter-spacing: 2px;
+
+}
+.about p{
+
+    font-size: 20px;
+}
+#direct{
+    position: relative;
+    top: 20px;
+}
+a{
+    color:grey;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    
+}
+#direct li{
+ display: inline;
+ padding: 10px;
+}
