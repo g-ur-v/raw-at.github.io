@@ -2,7 +2,8 @@ html,body{
 
 	width: auto;
 	height: 100%;
-	overflow-x: hidden !important
+	overflow-x: hidden !important;
+
 }
 
 body{
@@ -59,9 +60,8 @@ img{
 	text-transform: uppercase;
 	
 }
-#stage-caption p {
+#stage-caption h2 {
 
-	font-size: 40px;
 	text-align: center;
 	letter-spacing: 3px;
 	margin: auto;
